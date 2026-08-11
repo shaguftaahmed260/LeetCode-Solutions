@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Matrix
 |  |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

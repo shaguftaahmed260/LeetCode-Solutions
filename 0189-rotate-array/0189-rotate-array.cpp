@@ -1,21 +1,20 @@
 class Solution {
 public:
-    void reversePart(vector<int>& nums, int start, int end) {
+    void reverse(vector <int> &nums,int start,int end){
         int temp;
-        while (start < end){
-        temp = nums[start];
-        nums[start] = nums[end];
-        nums[end] = temp;
-        start ++;
-        end --;
+        while (start <end){
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
         }
     }
-    void rotate (vector <int> &nums, int k) {
+    void rotate(vector<int>& nums, int k) {
         int n = nums.size();
         k = k % n;
-        reversePart(nums, 0, n - 1 );
-        reversePart(nums, 0, k - 1);
-        reversePart(nums, k , n - 1);
-        
+        reverse(nums,0,n-1);
+        reverse(nums,0,k-1);
+        reverse(nums,k,n-1);
     }
 };

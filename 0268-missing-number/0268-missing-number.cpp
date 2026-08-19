@@ -9,6 +9,7 @@ public:
         for (int i = 0; i < nums.size(); i++){
             xorr2 = xorr2 ^ nums[i];
         }
-        return xorr1 ^ xorr2;
+         return xorr1 ^ xorr2;
+        
     }
 };

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shaguftaahmed260/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |

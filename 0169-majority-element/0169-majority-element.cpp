@@ -7,16 +7,16 @@ public:
             if (count == 0){
                 el = nums[i];
             }
-            if (nums[i] == el){
-                count ++;
+            if (el == nums[i]){
+                count++;
             }
-            else if (nums[i] != el){
+            else {
                 count --;
             }
         }
         int count2 = 0;
         for (int i = 0; i < nums.size(); i++){
-            if(nums[i] == el){
+            if (el == nums[i]){
                 count2++;
             }
             if (count2 > nums.size() / 2){
